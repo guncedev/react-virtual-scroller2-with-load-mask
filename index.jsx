@@ -5,7 +5,6 @@ import { render } from 'react-dom'
 import Scroller from './src'
 
 require('./index.styl')
-require('react-load-mask/index.styl')
 
 const App = class extends React.Component {
 
