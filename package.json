@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pavelkuznetsov/react-virtual-scroller2.git"
+    "url": "https://github.com/guncedev/react-virtual-scroller2.git"
   },
   "author": "ZippyUI <contact@zippyui.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pavelkuznetsov/react-virtual-scroller2.git"
+    "url": "https://github.com/guncedev/react-virtual-scroller2.git"
   },
-  "homepage": "https://github.com/pavelkuznetsov/react-virtual-scroller2",
+  "homepage": "https://github.com/guncedev/react-virtual-scroller2",
   "devDependencies": {
     "autoprefixer-loader": "^3.1.0",
     "babel": "^5.1.13",
